@@ -609,4 +609,4 @@ Top 10 notified → first 2–3 accepted
 | Fake SOS | penalties + limit |
 | Fake volunteers | KYC + rating |
 | Low users | start 1 city |
-| 
+| Data issue | manual + crowdsource |
