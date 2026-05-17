@@ -1,7 +1,7 @@
 # cityos
 # 🧠 PRODUCT NAME (working)\
 
-*\*CityOS / CityPulse**
+*\*CityOS / CityPulse*
 
 > Hyperlocal city platform: **Emergency + Services + Community + Governance**
 > 
